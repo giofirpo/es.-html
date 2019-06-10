@@ -1,0 +1,28 @@
+hr{
+    height : 4em;
+    background-color: grey
+    
+}
+
+div {
+    font-style: italic ;
+    font-size : 2em;
+    background-color: brown;
+   
+}
+
+h3{
+    font-size : 3em
+}
+
+
+
+h1 {
+    font-size: 5em;
+    font-style: oblique
+}
+
+body{
+    background-color: rgb(235, 150, 150);
+
+}
